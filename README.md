@@ -1,4 +1,4 @@
-# Google-CTF-2022---ENGRAVER-Writeup
+# Google-CTF-ENGRAVER-Writeup
 > Jason1024 @ Balsn
 
 To find the robot arm model, packet #16 hints at the manufacturer: Hiwonder. After browsing the robot arms produced by Hiwonder, we discovered that the leArm matches the robot arm appearance shown in the pictures.
